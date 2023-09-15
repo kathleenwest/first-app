@@ -13,3 +13,7 @@ This is my tutorial project result of the angular.io tutorial ["Build your first
 `ng serve -o`
 
 ## Demo Pictures
+
+![Screenshot of Web App Demo.](demo/demo1.jpg)
+![Screenshot of Web App Demo.](demo/demo2.jpg)
+![Screenshot of Web App Demo.](demo/demo3.jpg)
